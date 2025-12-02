@@ -69,11 +69,6 @@
     "ticker": "ORCL",
     "title": "ORACLE CORP"
   },
-  "14": {
-    "cik_str": 884394,
-    "ticker": "SPY",
-    "title": "SPDR S&P 500 ETF TRUST"
-  },
   "15": {
     "cik_str": 1141391,
     "ticker": "MA",
@@ -228,11 +223,6 @@
     "cik_str": 886982,
     "ticker": "GS",
     "title": "GOLDMAN SACHS GROUP INC"
-  },
-  "46": {
-    "cik_str": 1067839,
-    "ticker": "QQQ",
-    "title": "INVESCO QQQ TRUST, SERIES 1"
   },
   "47": {
     "cik_str": 1413329,
